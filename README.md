@@ -1,3 +1,6 @@
+This application followss the pages structure of NextJS. The navigation/link to different pages is still a new concept for me and I have tried to clearly code the files until point 2 of Follow-ups. It will show errors which I continued working on after creating the structure and files required for implementing the required functionality. 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
